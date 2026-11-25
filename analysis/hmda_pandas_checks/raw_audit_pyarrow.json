@@ -1,0 +1,22 @@
+{
+  "file": "2024_public_lar_one_year_csv.csv",
+  "bytes": 4636628799,
+  "columns": 99,
+  "records": 12259199,
+  "waterfall": {
+    "input": 12259199,
+    "year": 12259199,
+    "action": 6558317,
+    "purpose": 3695167,
+    "lien": 3553054,
+    "dwelling": 3358918,
+    "occupancy": 2945250,
+    "closed_end": 2867963,
+    "non_reverse": 2867757
+  },
+  "cohort_repeated_rows": {
+    "repeated_patterns": 21,
+    "rows_in_repeated_patterns": 114,
+    "rows_beyond_first": 93
+  }
+}
