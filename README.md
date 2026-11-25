@@ -1,6 +1,3 @@
-# group11_finalprojectassignment
-The code and reproductibility of the final project assignment of Big Data course from Group 11
-
 # HMDA 2024
 
 **Báo cáo** nằm tại **report/report.pdf**; thư mục **report** có nguồn LaTeX, hình và tài liệu tham khảo. **Mã nguồn và kết quả** nằm tại **analysis**.
