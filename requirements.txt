@@ -1,6 +1,0 @@
-# Versions used for the archived run (run_environment.json). Spark 4.x needs Java 17 or 21.
-pyspark==4.3.0
-pandas==2.3.3
-pyarrow==26.0.1
-numpy>=1.26
-matplotlib>=3.8
