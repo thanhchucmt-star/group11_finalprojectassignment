@@ -1,3 +1,0 @@
-geo,eligible_segments,observed_flags,share_price_gap_positive,share_adjusted_gap_positive,expected_flags_if_independent,permutation_mean,permutation_sd,permutation_p_value,flags_with_fallout_z_above_1_96,flags_with_price_gap_below_5bp
-county,3033,404,0.54071876030333,0.21628750412133202,354.71150675898446,356.0685,11.320197930716375,0.0004997501249375312,288,61
-msa,3780,558,0.5470899470899471,0.2335978835978836,483.0804232804233,482.956,12.937648757702801,0.0004997501249375312,423,62

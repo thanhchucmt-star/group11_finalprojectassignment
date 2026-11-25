@@ -1,8 +1,0 @@
-{
-  "states_with_counties": 54,
-  "records_with_county": 2862939,
-  "national_matched_gap_bp": 10.895,
-  "matched_segments": 857,
-  "spearman_rate_vs_top_lender_share_2000plus": 0.142,
-  "all_agree": true
-}
