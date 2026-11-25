@@ -1,0 +1,16 @@
+table,quantity,rows_compared,max_abs_diff,agree
+county segments,rows only in one engine,0,0.0,True
+county segments,n,392316,0.0,True
+county segments,n_price_valid,392316,0.0,True
+county segments,median,382505,7.105427357601002e-15,True
+state geography,rows only in one engine,0,0.0,True
+state geography,n,54,0.0,True
+state geography,n_fallout,54,0.0,True
+state geography,rate_pct,54,0.0,True
+state geography,top_lender_share_pct,53,0.0,True
+state geography,rate_without_top_lender_pct,53,0.0,True
+state geography,matched_segments,54,0.0,True
+state geography,gap_bp,43,3.552713678800501e-15,True
+pandas read_csv vs Spark,national matched gap (bp),1,1.7763568394002505e-15,True
+pandas read_csv vs Spark,matched segments,1,0.0,True
+pandas read_csv vs Spark,waterfall steps,9,0.0,True
