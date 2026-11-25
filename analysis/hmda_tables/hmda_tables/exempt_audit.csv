@@ -1,0 +1,4 @@
+group,records,lenders,share_not_accepted,median_records_per_lender,share_price_reported_exempt,records_before_filters,lenders_only_exempt,lenders_in_both
+kept in cohort,2867757,2656,0.031089454232000827,125.0,3.6962685471607254e-05,2945250,1828,38
+exempt code (1111),61371,1866,0.052060419416336705,20.0,0.9885450782943084,2945250,1828,38
+open-end or reverse,16122,658,0.08125542736633172,7.0,0.0,2945250,1828,38

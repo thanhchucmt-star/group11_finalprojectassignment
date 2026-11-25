@@ -1,0 +1,38 @@
+output,quantity,pandas,spark,agree,max_abs_difference
+metadata,plan_sha256,f6352695a2632101ee1189b30f9d7b9dbb943c5045ad4f6a7dac369903b31285,f6352695a2632101ee1189b30f9d7b9dbb943c5045ad4f6a7dac369903b31285,True,0.0
+metadata,model_rows,2862939,2862939,True,0.0
+metadata,complete_rows,2759092,2759092,True,0.0
+metadata,main_rows,2759092,2759092,True,0.0
+metadata,main_train_rows,2601028,2601028,True,0.0
+metadata,support_dropped,30693,30693,True,0.0
+metadata,main_valid_not_accepted,69430,69430,True,0.0
+metadata,trim_lower,-1.81,-1.81,True,0.0
+metadata,trim_upper,2.152,2.152,True,0.0
+metadata,terms_used,"['term_cat', 'arm_cat', 'conforming_cat', 'nonamort_cat']","['term_cat', 'arm_cat', 'conforming_cat', 'nonamort_cat']",True,0.0
+reporting audit,rows matched on keys,4,4,True,0.0
+reporting audit,used,4.0,4.0,True,0.0
+reporting audit,missing_share_originated,0.000998076963944169,0.000998076963944169,True,0.0
+reporting audit,missing_share_not_accepted,0.0036605080831408634,0.0036605080831408634,True,0.0
+coefficients,rows matched on keys,440,440,True,0.0
+coefficients,beta,-17.964567378581997,-17.964567378599206,True,1.552014072814245e-11
+prediction metrics,rows matched on keys,6,6,True,0.0
+prediction metrics,n,15871392.0,15871392.0,True,0.0
+prediction metrics,sse,4807557.796740275,4807557.796740273,True,7.566995918750763e-09
+prediction metrics,sae,6628775.902387102,6628775.902387105,True,2.3283064365386963e-09
+prediction metrics,rmse_bp,328.3312623656515,328.3312623656515,True,2.2026824808563106e-13
+prediction metrics,mae_bp,250.59224735857347,250.59224735857364,True,9.237055564881302e-14
+prediction metrics,r2,1.7721090304692448,1.7721090304691738,True,2.2301605007157832e-14
+segment medians,rows matched on keys,2124487,2124487,True,0.0
+segment medians,n_valid,13622297.0,13622297.0,True,0.0
+segment medians,median_spread,651887.8751215,651887.8751215,True,7.105427357601002e-15
+segment medians,median_resid,844665.5421409786,844665.5421409858,True,3.0994651289972808e-12
+matched gaps,rows matched on keys,9,9,True,0.0
+matched gaps,n_segments,3567.0,3567.0,True,0.0
+matched gaps,n_originated,888759.0,888759.0,True,0.0
+matched gaps,n_not_accepted,72271.0,72271.0,True,0.0
+matched gaps,raw_gap_bp,282.70050122485264,282.70050122485264,True,0.0
+matched gaps,resid_gap_bp,266.4404356155785,266.4404356155782,True,2.753353101070388e-13
+matched gaps,raw_lo_bp,64.17797287967332,64.17797287967332,True,0.0
+matched gaps,raw_hi_bp,500.2212601638306,500.2212601638306,True,0.0
+matched gaps,resid_lo_bp,51.665559498385015,51.66555949838475,True,3.339550858072471e-13
+matched gaps,resid_hi_bp,481.0461057978596,481.046105797859,True,2.6645352591003757e-13

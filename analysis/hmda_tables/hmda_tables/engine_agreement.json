@@ -1,0 +1,31 @@
+{
+  "status": "passed",
+  "waterfall_steps": 9,
+  "groups_compared": 360342,
+  "cohort_records": 2867757,
+  "group_count_fields_exact": [
+    "n",
+    "n_fallout",
+    "n_price_valid"
+  ],
+  "float_fields": [
+    "rate",
+    "spread_mean",
+    "q25",
+    "median",
+    "q75"
+  ],
+  "float_absolute_tolerance": 1e-10,
+  "float_relative_tolerance": 1e-09,
+  "max_abs_differences": {
+    "rate": 0.0,
+    "spread_mean": 1.7763568394002505e-15,
+    "q25": 6.661338147750939e-16,
+    "median": 1.1102230246251565e-16,
+    "q75": 8.881784197001252e-16
+  },
+  "benchmark_repeated_checks": 30,
+  "benchmark_spread_sum_absolute_tolerance": 1e-08,
+  "benchmark_spread_sum_relative_tolerance": 1e-09,
+  "benchmark_scope": "Both engines use the same nested samples of all source records on projected Parquet. Uncached means no application-level data cache; operating system disk cache was not flushed. Spark cache materialization times the read and cache action separately. One discarded warm-up run precedes timing in each engine. Medians are based on 5 repeats per condition. The Spark cache holds only the columns the workload reads. Pandas streams Arrow batches."
+}
